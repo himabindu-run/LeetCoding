@@ -1,2 +1,1 @@
-# STEP
-My practice for Google STEP intern Interviews.
+My practice for improving problem solving on leetcode.
